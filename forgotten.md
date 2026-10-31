@@ -1,2 +1,4 @@
 # Forgotten kanji
 
+* Blah
+* Boing
